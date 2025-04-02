@@ -1,0 +1,134 @@
+[
+    {
+      "name": "Saffron Arancini Fried Risotto Ball",
+      "description": "Bola de risotto frita con queso cheddar blanco en su interior, cubierta con salsa Romesco (elaborada con pimientos, frutos secos y aceite de oliva).",
+      "allergens": ["Gluten", "Lácteos", "Frutos secos"],
+      "category": "Entrante",
+      "image_url": "/images/SaffronAranciniFriedRisottoBall.jpg"
+    },
+    {
+      "name": "Pistachio Um Ali",
+      "description": "Postre de sabor medio dulce.",
+      "allergens": ["Lácteos", "Frutos secos"],
+      "category": "Postre",
+      "image_url": "/images/PistachioUmAli.jpg"
+    },
+    {
+      "name": "Ginori Baba",
+      "description": "Inspirado en el postre Rum Baba, nuestra versión sin ron incluye mango, maracuyá, compota de piña y chantilly de coco. Sabor muy refrescante y no dulce.",
+      "allergens": ["Gluten", "Lácteos", "Frutos secos (almendra en polvo)"],
+      "category": "Postre",
+      "image_url": "/images/GinoriBaba.jpg"
+    },
+    {
+      "name": "Vanilla Creme Brulee",
+      "description": "Crema brulee de vainilla con mezcla de bayas en la parte superior. Sabor muy dulce, recomendado para quienes prefieren postres dulces.",
+      "allergens": ["Gluten", "Lácteos", "Huevo"],
+      "category": "Postre",
+      "image_url": "/images/VanillaCremeBrulee.jpg"
+    },
+    {
+      "name": "Table Side Tiramisu",
+      "description": "Lady Finger, salsa de café, mascarpone y cacao en polvo.",
+      "allergens": ["Gluten", "Lácteos", "Huevo"],
+      "category": "Postre",
+      "preparation_steps": [
+        "Verter salsa de chocolate sobre el lady finger.",
+        "Añadir mascarpone encima.",
+        "Espolvorear cacao en polvo por encima."
+      ],
+      "image_url": "/images/TableSideTiramisufinal.jpg"
+    },
+    {
+      "name": "Caviar Indulgence",
+      "description": "Dos tipos de caviar disponibles: 'Oscietra Caviar' y 'Kristal Kaviari Caviar' de Francia, servidos con condimentos y blinis.",
+      "allergens": [],
+      "category": "Entrante",
+      "image_url": "/images/CaviarIndulgence.jpg"
+    },
+    {
+      "name": "Truffle Croc Monsieur",
+      "description": "Ternera ahumada, pasta de trufa, queso gruyere y salsa bechamel gratinada en la parte superior. Servido con ensalada y papas fritas.",
+      "allergens": ["Gluten", "Lácteos", "Huevo", "Champiñones"],
+      "category": "Sandwich",
+      "image_url": "/images/TruffleCrocMonsieur.jpg"
+    },
+    {
+      "name": "Wagyu Steak Sandwich",
+      "description": "Pan ciabatta, cebollas confitadas, tomates secos, salsa tzatziki y mostaza. Servido con ensalada y papas fritas. Preguntar el punto de cocción al tomar la orden.",
+      "allergens": ["Gluten", "Lácteos", "Cebolla", "Mostaza"],
+      "category": "Sandwich",
+      "image_url": "/images/WagyuSteakSandwich.jpg"
+    },
+    {
+      "name": "Burrata Salad",
+      "description": "Ensalada con burrata, tomate heirloom, pesto de albahaca y reducción de balsámico.",
+      "allergens": ["Lácteos"],
+      "category": "Ensalada",
+      "image_url": "/images/BurataSalad.jpg"
+    },
+    {
+      "name": "Caesar Salad",
+      "description": "Ensalada César con cesta de parmesano.",
+      "allergens": ["Lácteos"],
+      "category": "Ensalada",
+      "image_url": "/images/CaesarSaladwithParmessanBasket.jpg"
+    },
+    {
+      "name": "Fritto Misto with Tartare Sauce",
+      "description": "Calamares, gambas, mejillones, pulpo y verduras fritas en tempura. Servido con salsa tártara.",
+      "allergens": ["Gluten", "Lácteos", "Huevo", "Mariscos"],
+      "category": "Entrante",
+      "image_url": "/images/FrittoMistowithTartareSauce.jpg"
+    },
+    {
+      "name": "Shrimp Cocktail",
+      "description": "Aguacate en cubos, gajos de aguacate fritos en tempura, gambas tostadas con salsa mil islas (elaborada con ketchup, mayonesa y tabasco).",
+      "allergens": ["Gluten", "Lácteos", "Huevo", "Mariscos"],
+      "category": "Entrante",
+      "image_url": "/images/ShrimpCocktail.jpg"
+    },
+    {
+      "name": "Vitello Tonnato Bruschetta",
+      "description": "Tostada de pan de masa madre crujiente con lomo de ternera cocido a fuego lento y hojas de rúcula. Servido con ensalada y papas fritas. Salsa: Tonnato (elaborada con alcaparras, mayonesa y atún).",
+      "allergens": ["Gluten", "Lácteos", "Pescado", "Huevo"],
+      "category": "Entrante",
+      "image_url": "/images/VitelloTonnatoBruschetta.jpg"
+    },
+    {
+      "name": "Grilled Zaatar Focaccia Bread",
+      "description": "Pan focaccia a la parrilla con zaatar, salmón ahumado, pepino y salsa de yogur con eneldo. Servido con ensalada y papas fritas.",
+      "allergens": ["Gluten", "Lácteos", "Pescado"],
+      "category": "Sandwich",
+      "image_url": "/images/GrilledZaatarFocacciaBread.jpg"
+    },
+    {
+      "name": "Cheese Monger Selection",
+      "description": "Selección de 5 tipos de queso (queso azul, camembert, manchego, queso de cabra, bola de labneh). Consultar diariamente con el chef, ya que los quesos son de temporada. Servido con mantequilla.",
+      "allergens": ["Gluten", "Lácteos", "Cacahuetes", "Frutos secos"],
+      "category": "Entrante",
+      "image_url": "/images/CheeseMongerSelection.jpg"
+    },
+    {
+      "name": "Nicoise Salad",
+      "description": "Ensalada con atún fresco de aleta azul cocido a fuego lento, anchoas, huevos de codorniz, judías verdes, alcachofas y aceitunas kalamata. Aderezo: vinagreta de limón.",
+      "allergens": ["Lácteos", "Pescado", "Huevo", "Mostaza"],
+      "category": "Ensalada",
+      "image_url": "/images/NicoiseSalad.jpg"
+    },
+    {
+      "name": "Cold Mezze Heritage",
+      "description": "Selección de mezze fríos tradicionales.",
+      "allergens": [],
+      "category": "Entrante",
+      "image_url": "/images/ColdMezzeHeritage.jpg"
+    },
+    {
+      "name": "Beef Air Dryer Beef Bresaola Cecina de Leon",
+      "description": "Cecina de León, jerky, pan con tomate.",
+      "allergens": ["Gluten"],
+      "category": "Tapas",
+      "image_url": "/images/BeefAirDryerBresaola.jpg"
+    }
+  ]
+  
