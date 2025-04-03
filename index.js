@@ -1,8 +1,7 @@
-// index.js
 import express from 'express';
 import dotenv from 'dotenv';
 import cors from 'cors';
-import pool from './db.js'; // Asegúrate que db.js también use `export default`
+import pool from './db.js';
 
 dotenv.config();
 
@@ -11,10 +10,17 @@ app.use(cors());
 app.use(express.json());
 app.use('/images', express.static('images'));
 
-app.get('/', (req, res) => {
-  res.send('🍽️ Bienvenido a la API del Bar. Usá /dishes o /drinks');
+// ⛳ NUEVO: devuelve todos los platos desde `/`
+app.get('/', async (req, res) => {
+  try {
+    const result = await pool.query('SELECT * FROM dishes');
+    res.json(result.rows);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
 });
 
+// Ruta opcional si luego arreglás `/dishes`
 app.get('/dishes', async (req, res) => {
   try {
     const result = await pool.query('SELECT * FROM dishes');
